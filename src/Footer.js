@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <div className="Footsie">
       <a
-        href="https://github.com/AndreaDubuc/SheCodesWeatherAppJS"
+        href="https://github.com/AndreaDubuc/codesandbox_weatherapp"
         target="_blank"
         rel="noreferrer"
       >
