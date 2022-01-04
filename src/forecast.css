@@ -1,0 +1,29 @@
+.Forecast {
+  text-align: center;
+  color: #ffff;
+  font-family: Learning-Curve;
+  font-size: 38px;
+  font-weight: bolder;
+}
+
+.fivedforecast {
+  color: #ffff;
+  text-shadow: 0.1vw 0vw 0.25vw #1fbcc7, 0.2vw 0vw 0.25vw #a0fefc,
+    0.4vw 0vw 0.25vw #a0fefc, 0.1vw 0vw 0vw #a0fefc, 0.2vw 0vw 0vw #a0fefc,
+    0.4vw 0vw 0vw #a0fefc, 0.1vw 0vw 0.1vw #a0fefc, 0.2vw 0vw 0.1vw #a0fefc,
+    0.4vw 0vw 0.1vw #a0fefc, 0.1vw 0vw 2vw #a3dde4, 0.2vw 0vw 2vw #a0fefc,
+    0.4vw 0vw 2vw #a0fefc, 0.1vw 0vw 1vw #a0fefc, 0.2vw 0vw 1vw #a0fefc,
+    0.4vw 0vw 5vw #a0fefc, 0.1vw 0vw 5vw #a0fefc, 0.2vw 0vw 20vw #a0fefc,
+    0.4vw 0vw 10vw #a0fefc, 0.1vw 0vw 10vw #a0fefc, 0.2vw 0vw 30vw #a0fefc,
+    0.4vw 0vw 10vw #a0fefc;
+  position: relative;
+  top: 3px;
+  height: 45px;
+  width: 45px;
+  margin-bottom: 10px;
+}
+
+.Forecast-icon {
+  height: px;
+  width: 50px;
+}

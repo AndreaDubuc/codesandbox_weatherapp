@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  min-width: 100%;
+  overflow: hidden;
+  background-image: url(../assets/wall.jpg);
+  background-size: cover;
+  padding: 80px;
+}
+
+.container {
+  margin-top: 90px;
+  box-shadow: 0 0 0.1vw 0.4vw #fafaf8fd, 0 0 0.4vw 0.6vw #faed27,
+    0 0 4vw 0.4vw #faed27, inset 0 0 1.5vw 0.4vw #faed27,
+    inset 0 0 0.4vw 0.2vw #faed27, inset 0 0 0.5vw 0.2vw #fff7f7;
+  border-radius: 1.5rem;
+  padding: 40px 60px;
+  max-width: 800px;
+}
