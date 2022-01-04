@@ -17,7 +17,7 @@ export default function App() {
       <div className="p-2">
         <img
           className="mainicon"
-          src="../assets/10n.png"
+          src="10n.png"
           alt="main forecast icon"
         ></img>
       </div>
