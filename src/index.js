@@ -5,7 +5,8 @@ import Weather from "./Weather.js";
 import Forecast from "./Forecast.js";
 import Footer from "./Footer.js";
 
-import "./index.css";
+import "./index.scss";
+
 
 function WeatherApp() {
   return (
